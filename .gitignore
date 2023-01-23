@@ -1,0 +1,17 @@
+*.nes
+scr-builds
+
+*.exe
+music/music-convert.exe
+rle/rle.exe
+title/titlegen.exe
+end/endgen.exe
+
+title/tiles-out 
+title/name-out
+
+end/tiles-out 
+end/name-out
+
+title/name-out.rle
+end/name-out.rle
